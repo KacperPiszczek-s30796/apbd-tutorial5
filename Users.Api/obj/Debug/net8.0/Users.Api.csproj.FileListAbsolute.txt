@@ -30,3 +30,4 @@ D:\studia\APBD\Tutorial5RestApi - Start\Users.Api\obj\Debug\net8.0\refint\Users.
 D:\studia\APBD\Tutorial5RestApi - Start\Users.Api\obj\Debug\net8.0\Users.Api.pdb
 D:\studia\APBD\Tutorial5RestApi - Start\Users.Api\obj\Debug\net8.0\Users.Api.genruntimeconfig.cache
 D:\studia\APBD\Tutorial5RestApi - Start\Users.Api\obj\Debug\net8.0\ref\Users.Api.dll
+D:\studia\APBD\Tutorial5RestApi - Start\Users.Api\obj\Debug\net8.0\Users.Api.sourcelink.json

@@ -70,7 +70,7 @@ public class AnimalController: ControllerBase
         return Ok(animalsVisits);
     }
 
-    [HttpPost]
+    [HttpPost("/visits")]
     public IActionResult AddVisit([FromBody] Visit visit)
     {
         _visits.Add(visit);
